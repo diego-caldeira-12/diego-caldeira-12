@@ -6,20 +6,20 @@
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Bem-vindo+ao+meu+perfil!+&#x1f44b;;Engenharia+da+Computa&ccedil;&atilde;o+&#x1f393;;Analista+de+Dados+&#x1f4ca;;Desenvolvedor+de+Jogos+&#x1f3ae;;Criador+de+Solu&ccedil;&otilde;es+com+IA+&#x1f916;;Construindo+o+futuro+com+c&oacute;digo+&#x1f680;" alt="Typing SVG" />
-</a>a>
+</a>
 
 <br/>
 
 <!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/diego-caldeira-601485197/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>a>
+</a>
 <a href="https://www.instagram.com/diegocaldeira_/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>a>
+</a>
 <a href="https://github.com/diego-caldeira-12">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>a>
+</a
 <img src="https://komarev.com/ghpvc/?username=diego-caldeira-12&color=58a6ff&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Profile Views"/>
 
 </div>
