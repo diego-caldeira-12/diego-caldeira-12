@@ -57,7 +57,7 @@ hobbies: Desenvolvimento de Jogos 🎮
 <div align="center">
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diego-caldeira-12&repo=diego-caldeira-12&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b5cf6&text_color=c9d1d9" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=diego-caldeira-12&repo=diego-caldeira-12&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b5cf6&text_color=c9d1d9" />
 </a>
 
 </div>
