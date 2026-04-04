@@ -120,12 +120,12 @@ hobbies: Desenvolvimento de Jogos 🎮
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=diego-caldeira-12&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b5cf6&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=diego-caldeira-12&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b5cf6&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=diego-caldeira-12&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=8b5cf6&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-caldeira-12&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=false&langs_count=8" alt="Top Languages" />
+<img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diego-caldeira-12&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=false&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -135,7 +135,7 @@ hobbies: Desenvolvimento de Jogos 🎮
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=diego-caldeira-12&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=diego-caldeira-12&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -155,11 +155,7 @@ hobbies: Desenvolvimento de Jogos 🎮
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diego-caldeira-12/diego-caldeira-12/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diego-caldeira-12/diego-caldeira-12/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/diego-caldeira-12/diego-caldeira-12/output/github-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/diego-caldeira-12/diego-caldeira-12/output/github-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
