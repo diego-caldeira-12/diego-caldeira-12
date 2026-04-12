@@ -199,7 +199,7 @@ timeline
 <div align="center">
 
 <picture>
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph - Night Rainbow" width="100%"/>
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%"/>
 </picture>
 
 > *Skyline 3D das minhas contribuições — atualizado automaticamente via GitHub Actions*
