@@ -83,18 +83,16 @@ hobbies: Desenvolvimento de Jogos 🎮 | Arte Digital 🎨
 ```mermaid
 timeline
     title Minha Jornada na Tecnologia
-    2024 : Início na Inovamind
+    2025 : Início na Inovamind
          : Analista de Dados
          : Primeiros projetos com Python & SQL
-    2025 : Criação do Agente IA WhatsApp
-         : Desenvolvimento do App de Contabilidade
-         : Automação com n8n
-         : Início no Desenvolvimento Web
-    2026 : Engenharia da Computação (cursando)
+         : Criação do Agente IA WhatsApp
+    2026 : Desenvolvimento do App de Contabilidade
+         : Automação com n8n e migração para código
+         : Engenharia da Computação (cursando)
          : Desenvolvimento de Jogos com Unity
          : Arte Digital com Krita
          : Construção de Websites Profissionais
-         : Migração de automações para código
 ```
 
 </div>
