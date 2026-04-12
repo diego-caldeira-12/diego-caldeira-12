@@ -228,7 +228,7 @@ timeline
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ubcxazybcxy2yaqjy7npdgnub&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&profanity=false&bar_color=58a6ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ubcxazybcxy2yaqjy7npdgnub&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ubcxazybcxy2yaqjy7npdgnub&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ubcxazybcxy2yaqjy7npdgnub&redirect=true)
 
 </div>
 
