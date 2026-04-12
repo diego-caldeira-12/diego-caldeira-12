@@ -228,16 +228,7 @@ timeline
 
 <div align="center">
 
-> 🎧 **Em breve:** Widget em tempo real mostrando o que estou ouvindo no Spotify.
-> 
-> *Necessário: configurar Spotify Developer App + deploy no Vercel*
-
-<!--
-PARA ATIVAR: Após configurar, substitua o comentário abaixo pela imagem:
-<a href="https://YOUR-VERCEL-URL.vercel.app/now-playing?open">
-  <img src="https://YOUR-VERCEL-URL.vercel.app/now-playing" alt="Spotify Now Playing" width="400"/>
-</a>
--->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ubcxazybcxy2yaqjy7npdgnub&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&profanity=false&bar_color=58a6ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ubcxazybcxy2yaqjy7npdgnub&redirect=true)
 
 </div>
 
