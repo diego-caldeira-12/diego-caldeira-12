@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Bem-vindo+ao+meu+perfil!;Engenharia+da+Computacao;Analista+de+Dados;Desenvolvedor+de+Jogos;Criador+de+Solucoes+com+IA;Artista+Digital;Construindo+o+futuro+com+codigo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Bem-vindo+ao+meu+perfil!;Engenharia+da+Computacao;Analista+de+Dados;Desenvolvedor+de+Jogos;Artista+Digital;Construindo+o+futuro+com+codigo" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,7 +29,7 @@ Olá! Sou o Diego, estudante de Engenharia de Computação, focado em Análise d
 ---
 
 ### 📈 Contribuições 3D (Skyline)
-![3D Contributions](./profile-3d-contrib/profile-night-view.svg)
+![3D Contributions](./perfil-3d-contrib/profile-night-view.svg)
 
 ---
 
