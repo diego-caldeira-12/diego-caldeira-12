@@ -32,104 +32,124 @@
 
 - 🤝 **Sócio & desenvolvedor** na **ISPM Consultoria & Facilities**
 - 🎓 Estudante de **Engenharia da Computação**
-- 🤖 Construo **agentes de IA conversacionais** (vendas/atendimento) — Python, RAG, APIs de LLM, WhatsApp
-- 🛠️ **Backend & full-stack** — TypeScript, Node.js, Next.js/React, Supabase
-- 📊 Base sólida em **análise de dados** (Python, SQL)
-- 💼 Antes: **Inovamind** (analista de dados & desenvolvedor) — hoje em nova jornada na ISPM
-- 🎮🎨 Também curto **jogos** (Unity) e **arte digital** (Krita)
+- 🤖 Desenvolvo **agentes de IA conversacionais** (vendas/atendimento) — Python, RAG, APIs de LLM, WhatsApp
+- 🛠️ **Backend & full-stack** — TypeScript, Node.js, Next.js, React, FastAPI, Tailwind, Supabase
+- 📊 **Análise de dados** — Python (Pandas, NumPy), SQL, PostgreSQL
+- 📱 Também desenvolvo **apps mobile** (iOS/Android), **jogos** (Unity) e domino **arte digital** (Krita)
+- 💼 Antes: **Inovamind** — analista de dados & desenvolvedor
 
 > Transformo ideias em produto: da automação com IA ao backend que segura a operação.
 
 ---
 
-## 🚀 Produtos & Projetos
+## 🚀 Projetos
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**💰 Comparador de Preços**
-
-Análise automática de **NF-e**: lê o XML, classifica por categoria e aponta o fornecedor mais barato + alertas de aumento atípico.
-
-`Next.js` · `React` · `Supabase`
-<br/>🔒 código privado · em piloto
+**💰 Comparador de Preços**<br/>
+Análise automática de **NF-e**: lê o XML, classifica por categoria e aponta o fornecedor mais barato + alerta de aumento atípico.<br/>
+`Next.js` `React` `Supabase`<br/>
+🔒 Código privado · em piloto
 
 </td>
 <td width="33%" valign="top">
 
-**✈️ [Plataforma de Viagens](https://viagem-caldas-novas.vercel.app)**
-
-3-em-1: rateio de grupo, busca de hotéis ao vivo (LiteAPI) e portal do parceiro. Serverless + Supabase.
-
-`Vercel` · `LiteAPI` · `Supabase`
-<br/>🔗 **no ar**
+**✈️ [Plataforma de Viagens](https://viagem-caldas-novas.vercel.app)**<br/>
+3-em-1: rateio de grupo, busca de hotéis ao vivo (LiteAPI) e portal do parceiro. Serverless + Supabase.<br/>
+`Vercel` `Serverless` `Supabase`<br/>
+🔗 No ar · 🔒 Código privado
 
 </td>
 <td width="33%" valign="top">
 
-**🎬 [Hora de Dramear](https://horadedramear.com.br)**
-
-Plataforma de conteúdo para fãs de doramas: blog, newsletter, votação, awards e busca.
-
-`Web` · `Conteúdo` · `SEO`
-<br/>🔗 **no ar**
+**🎬 [Hora de Dramear](https://horadedramear.com.br)**<br/>
+Plataforma de conteúdo para fãs de doramas: blog, newsletter, votação, awards e busca.<br/>
+`Web` `SEO` `Conteúdo`<br/>
+🔗 No ar · 🔒 Código privado
 
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 
-**📈 Contempla Já**
-
-Simulador de probabilidade de contemplação de consórcios, com login por convite e histórico por vendedor.
-
-`Vite` · `React` · `Supabase`
-<br/>🔒 código privado · fase 1
+**📈 Contempla Já**<br/>
+Simulador de probabilidade de contemplação de consórcios, com login por convite e histórico por vendedor.<br/>
+`Vite` `React` `Supabase`<br/>
+🔒 Código privado · fase 1
 
 </td>
 <td width="33%" valign="top">
 
-**🏢 [Site ISPM](https://ispm.com.br)**
-
-Site institucional da ISPM com o *Mapeamento ISPM* — questionário de 10 etapas que gera leads.
-
-`Static` · `Supabase` · `Edge Functions`
-<br/>🔗 **no ar**
+**🏢 [Site ISPM](https://ispm.com.br)**<br/>
+Site institucional da ISPM com o *Mapeamento ISPM* — questionário de 10 etapas que gera leads.<br/>
+`Static` `Supabase` `Edge Functions`<br/>
+🔗 No ar · 🔒 Código privado
 
 </td>
 <td width="33%" valign="top">
 
-**🤖 Agente IA de Vendas 24/7**
+**🤖 Agente IA de Vendas 24/7**<br/>
+Agente conversacional no WhatsApp com arquitetura de *ports* plugáveis (catálogo, frete, pagamento, CRM).<br/>
+`Python` `RAG` `LLM APIs`<br/>
+🔒 Código privado
 
-Agente conversacional de vendas no WhatsApp com arquitetura de *ports* plugáveis (catálogo, frete, pagamento, CRM).
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 
-`Python` · `RAG` · `LLM APIs`
-<br/>🔒 privado
+**💳 [payments-gateway-api](https://github.com/diego-caldeira-12/payments-gateway-api)**<br/>
+Gateway de pagamento (mock): idempotência, webhooks e processamento assíncrono.<br/>
+`TypeScript` `Node.js`<br/>
+`</>` Código público
+
+</td>
+<td width="33%" valign="top">
+
+**🌿 [plantdoc-ai](https://github.com/diego-caldeira-12/plantdoc-ai)**<br/>
+Visão computacional para identificar doenças em plantas (MobileNetV2, transfer learning).<br/>
+`Python` `TensorFlow`<br/>
+`</>` Código público
+
+</td>
+<td width="33%" valign="top">
+
+**🏬 [sites-itabira](https://github.com/diego-caldeira-12/sites-itabira)**<br/>
+Sites profissionais para comércios de Itabira/MG.<br/>
+`HTML` `CSS` `JS`<br/>
+`</>` Código público
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**🧠 LAPLACE**<br/>
+Plataforma autônoma de pesquisa quantitativa para trading: multiagente, backtesting e módulo de risco com veto (*LLMs nunca decidem trades*).<br/>
+`Python` `Quant` `Multiagente`<br/>
+🔒 Código privado
+
+</td>
+<td width="33%" valign="top">
+
+**📊 Painéis de conciliação & gestão**<br/>
+Dashboards SaaS para operação financeira e logística.<br/>
+`React` `Node.js` `PostgreSQL`<br/>
+🔒 Código privado
+
+</td>
+<td width="33%" valign="top">
+
+**📱 Apps mobile**<br/>
+Aplicativos iOS + Android para operação logística.<br/>
+`Mobile` `iOS` `Android`<br/>
+🔒 Código privado
 
 </td>
 </tr>
 </table>
-
----
-
-## 💻 Código Público
-
-Meus repositórios abertos — onde dá pra ver código de verdade:
-
-| Repositório | O que é | Stack |
-|-------------|---------|-------|
-| **[payments-gateway-api](https://github.com/diego-caldeira-12/payments-gateway-api)** | Gateway de pagamento (mock): idempotência, webhooks e processamento assíncrono | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
-| **[plantdoc-ai](https://github.com/diego-caldeira-12/plantdoc-ai)** | Visão computacional para identificar doenças em plantas (MobileNetV2, transfer learning) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| **[sites-itabira](https://github.com/diego-caldeira-12/sites-itabira)** | Sites profissionais para comércios de Itabira/MG | ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) |
-
----
-
-## 🧩 Mais trabalho
-
-- 🧠 **LAPLACE** — plataforma autônoma de pesquisa quantitativa para trading (multiagente, backtesting, módulo de risco com veto; *LLMs nunca decidem trades*). `🔒 privado`
-- 📊 **Painéis de conciliação & gestão** — dashboards SaaS para operação financeira e logística. `🔒 privado`
-- 📱 **Apps mobile** — aplicativos iOS + Android para operação logística. `🔒 privado`
 
 ---
 
@@ -160,9 +180,9 @@ Meus repositórios abertos — onde dá pra ver código de verdade:
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" alt="DevOps" />
 
-**Também**
+**Mobile, Jogos & Design**
 <br/>
-<img src="https://skillicons.dev/icons?i=unity,blender,figma&theme=dark" alt="Também" />
+<img src="https://skillicons.dev/icons?i=unity,blender,figma&theme=dark" alt="Mobile, Jogos & Design" />
 <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" alt="Krita" height="42"/>
 
 </div>
@@ -179,7 +199,7 @@ Meus repositórios abertos — onde dá pra ver código de verdade:
 | **Dados** | Python (Pandas, NumPy), SQL, Análise de Dados |
 | **Bancos de Dados** | PostgreSQL, MySQL, MongoDB, SQLite |
 | **DevOps & Ferramentas** | Git, GitHub, Docker, Linux, VS Code |
-| **Também** | Unity, C# Scripting, Blender, Figma, Krita |
+| **Mobile, Jogos & Design** | iOS, Android, Unity, C# Scripting, Blender, Figma, Krita |
 
 </details>
 
@@ -191,13 +211,11 @@ Meus repositórios abertos — onde dá pra ver código de verdade:
 
 ```mermaid
 timeline
-    title Minha Jornada na Tecnologia
-    2025 : Primeira experiência profissional
-         : Analista de Dados & Desenvolvedor (Inovamind)
-         : Python, SQL e primeiros projetos
-    2026 : Nova jornada — Sócio & Dev na ISPM
-         : Foco em IA, automação e full-stack
-         : Projetos próprios (LAPLACE, Comparador, Plataforma de Viagens)
+    title Minha Trajetória
+    2025 : Início na carreira em tecnologia : Analista de Dados & Desenvolvedor na Inovamind : Python, SQL e primeiros projetos
+    Abr 2026 : plantdoc-ai — visão computacional (MobileNetV2) : payments-gateway-api — backend em TypeScript
+    Jun 2026 : sites-itabira — web para comércios locais
+    Ago 2026 : Sócio & Desenvolvedor na ISPM : Projetos próprios — LAPLACE, Comparador de Preços e Plataforma de Viagens
 ```
 
 </div>
@@ -208,12 +226,13 @@ timeline
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=diego-caldeira-12&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b5cf6&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=diego-caldeira-12&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=8b5cf6&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diego-caldeira-12&theme=github_dark" alt="GitHub Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diego-caldeira-12&theme=github_dark" alt="Linguagens mais usadas" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-caldeira-12&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=false" alt="Top Languages" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=diego-caldeira-12&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=8b5cf6&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=diego-caldeira-12&theme=github_dark&utcOffset=-3" alt="Horários de código" />
 
 </div>
 
@@ -242,20 +261,6 @@ timeline
 </picture>
 
 > *Skyline 3D das minhas contribuições — atualizado automaticamente via GitHub Actions*
-
-</div>
-
----
-
-## ⏱️ Tempo de Código
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-```
-⌛ Coletando dados do WakaTime... aparecem aqui automaticamente.
-```
-<!--END_SECTION:waka-->
 
 </div>
 

@@ -33,103 +33,123 @@
 - 🤝 **Partner & developer** at **ISPM Consultoria & Facilities**
 - 🎓 **Computer Engineering** student
 - 🤖 I build **conversational AI agents** (sales/support) — Python, RAG, LLM APIs, WhatsApp
-- 🛠️ **Backend & full-stack** — TypeScript, Node.js, Next.js/React, Supabase
-- 📊 Solid foundation in **data analysis** (Python, SQL)
-- 💼 Previously: **Inovamind** (data analyst & developer) — now on a new journey at ISPM
-- 🎮🎨 Also into **games** (Unity) and **digital art** (Krita)
+- 🛠️ **Backend & full-stack** — TypeScript, Node.js, Next.js, React, FastAPI, Tailwind, Supabase
+- 📊 **Data analysis** — Python (Pandas, NumPy), SQL, PostgreSQL
+- 📱 I also build **mobile apps** (iOS/Android), **games** (Unity) and work with **digital art** (Krita)
+- 💼 Previously: **Inovamind** — data analyst & developer
 
 > I turn ideas into products: from AI automation to the backend that keeps operations running.
 
 ---
 
-## 🚀 Products & Projects
+## 🚀 Projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**💰 Price Comparator**
-
-Automated **e-invoice (NF-e)** analysis: reads the XML, classifies by category and points to the cheapest supplier + unusual-increase alerts.
-
-`Next.js` · `React` · `Supabase`
-<br/>🔒 private code · piloting
+**💰 Price Comparator**<br/>
+Automated **e-invoice (NF-e)** analysis: reads the XML, classifies by category and points to the cheapest supplier + unusual-increase alerts.<br/>
+`Next.js` `React` `Supabase`<br/>
+🔒 Private code · piloting
 
 </td>
 <td width="33%" valign="top">
 
-**✈️ [Travel Platform](https://viagem-caldas-novas.vercel.app)**
-
-3-in-1: group cost-splitting, live hotel search (LiteAPI) and a partner portal. Serverless + Supabase.
-
-`Vercel` · `LiteAPI` · `Supabase`
-<br/>🔗 **live**
+**✈️ [Travel Platform](https://viagem-caldas-novas.vercel.app)**<br/>
+3-in-1: group cost-splitting, live hotel search (LiteAPI) and a partner portal. Serverless + Supabase.<br/>
+`Vercel` `Serverless` `Supabase`<br/>
+🔗 Live · 🔒 Private code
 
 </td>
 <td width="33%" valign="top">
 
-**🎬 [Hora de Dramear](https://horadedramear.com.br)**
-
-Content platform for Asian-drama fans: blog, newsletter, voting, awards and search.
-
-`Web` · `Content` · `SEO`
-<br/>🔗 **live**
+**🎬 [Hora de Dramear](https://horadedramear.com.br)**<br/>
+Content platform for Asian-drama fans: blog, newsletter, voting, awards and search.<br/>
+`Web` `SEO` `Content`<br/>
+🔗 Live · 🔒 Private code
 
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 
-**📈 Contempla Já**
-
-Consortium-award probability simulator, with invite-only login and per-seller history.
-
-`Vite` · `React` · `Supabase`
-<br/>🔒 private code · phase 1
+**📈 Contempla Já**<br/>
+Consortium-award probability simulator, with invite-only login and per-seller history.<br/>
+`Vite` `React` `Supabase`<br/>
+🔒 Private code · phase 1
 
 </td>
 <td width="33%" valign="top">
 
-**🏢 [ISPM Website](https://ispm.com.br)**
-
-ISPM's institutional site with the *ISPM Mapping* — a 10-step questionnaire that generates leads.
-
-`Static` · `Supabase` · `Edge Functions`
-<br/>🔗 **live**
+**🏢 [ISPM Website](https://ispm.com.br)**<br/>
+ISPM's institutional site with the *ISPM Mapping* — a 10-step questionnaire that generates leads.<br/>
+`Static` `Supabase` `Edge Functions`<br/>
+🔗 Live · 🔒 Private code
 
 </td>
 <td width="33%" valign="top">
 
-**🤖 24/7 Sales AI Agent**
+**🤖 24/7 Sales AI Agent**<br/>
+Conversational sales agent on WhatsApp with a pluggable *ports* architecture (catalog, shipping, payment, CRM).<br/>
+`Python` `RAG` `LLM APIs`<br/>
+🔒 Private code
 
-Conversational sales agent on WhatsApp with a pluggable *ports* architecture (catalog, shipping, payment, CRM).
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 
-`Python` · `RAG` · `LLM APIs`
-<br/>🔒 private
+**💳 [payments-gateway-api](https://github.com/diego-caldeira-12/payments-gateway-api)**<br/>
+Mock payment gateway: idempotency, webhooks and async processing.<br/>
+`TypeScript` `Node.js`<br/>
+`</>` Public code
+
+</td>
+<td width="33%" valign="top">
+
+**🌿 [plantdoc-ai](https://github.com/diego-caldeira-12/plantdoc-ai)**<br/>
+Computer vision for plant-disease identification (MobileNetV2, transfer learning).<br/>
+`Python` `TensorFlow`<br/>
+`</>` Public code
+
+</td>
+<td width="33%" valign="top">
+
+**🏬 [sites-itabira](https://github.com/diego-caldeira-12/sites-itabira)**<br/>
+Professional websites for local businesses in Itabira/MG.<br/>
+`HTML` `CSS` `JS`<br/>
+`</>` Public code
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**🧠 LAPLACE**<br/>
+Autonomous quantitative research platform for trading: multi-agent, backtesting and a risk module with veto (*LLMs never decide trades*).<br/>
+`Python` `Quant` `Multi-agent`<br/>
+🔒 Private code
+
+</td>
+<td width="33%" valign="top">
+
+**📊 Reconciliation & management dashboards**<br/>
+SaaS dashboards for financial and logistics operations.<br/>
+`React` `Node.js` `PostgreSQL`<br/>
+🔒 Private code
+
+</td>
+<td width="33%" valign="top">
+
+**📱 Mobile apps**<br/>
+iOS + Android apps for logistics operations.<br/>
+`Mobile` `iOS` `Android`<br/>
+🔒 Private code
 
 </td>
 </tr>
 </table>
-
----
-
-## 💻 Public Code
-
-My open repositories — where you can see real code:
-
-| Repository | What it is | Stack |
-|------------|-----------|-------|
-| **[payments-gateway-api](https://github.com/diego-caldeira-12/payments-gateway-api)** | Mock payment gateway: idempotency, webhooks and async processing | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
-| **[plantdoc-ai](https://github.com/diego-caldeira-12/plantdoc-ai)** | Computer vision for plant-disease identification (MobileNetV2, transfer learning) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| **[sites-itabira](https://github.com/diego-caldeira-12/sites-itabira)** | Professional websites for local businesses in Itabira/MG | ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) |
-
----
-
-## 🧩 More work
-
-- 🧠 **LAPLACE** — autonomous quantitative research platform for trading (multi-agent, backtesting, risk module with veto; *LLMs never decide trades*). `🔒 private`
-- 📊 **Reconciliation & management dashboards** — SaaS dashboards for financial and logistics operations. `🔒 private`
-- 📱 **Mobile apps** — iOS + Android apps for logistics operations. `🔒 private`
 
 ---
 
@@ -160,9 +180,9 @@ My open repositories — where you can see real code:
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" alt="DevOps" />
 
-**Also**
+**Mobile, Games & Design**
 <br/>
-<img src="https://skillicons.dev/icons?i=unity,blender,figma&theme=dark" alt="Also" />
+<img src="https://skillicons.dev/icons?i=unity,blender,figma&theme=dark" alt="Mobile, Games & Design" />
 <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" alt="Krita" height="42"/>
 
 </div>
@@ -179,7 +199,7 @@ My open repositories — where you can see real code:
 | **Data** | Python (Pandas, NumPy), SQL, Data Analysis |
 | **Databases** | PostgreSQL, MySQL, MongoDB, SQLite |
 | **DevOps & Tools** | Git, GitHub, Docker, Linux, VS Code |
-| **Also** | Unity, C# Scripting, Blender, Figma, Krita |
+| **Mobile, Games & Design** | iOS, Android, Unity, C# Scripting, Blender, Figma, Krita |
 
 </details>
 
@@ -191,13 +211,11 @@ My open repositories — where you can see real code:
 
 ```mermaid
 timeline
-    title My Journey in Tech
-    2025 : First professional experience
-         : Data Analyst & Developer (Inovamind)
-         : Python, SQL and first projects
-    2026 : New journey — Partner & Dev at ISPM
-         : Focus on AI, automation and full-stack
-         : Own projects (LAPLACE, Price Comparator, Travel Platform)
+    title My Journey
+    2025 : Started my tech career : Data Analyst & Developer at Inovamind : Python, SQL and first projects
+    Apr 2026 : plantdoc-ai — computer vision (MobileNetV2) : payments-gateway-api — TypeScript backend
+    Jun 2026 : sites-itabira — web for local businesses
+    Aug 2026 : Partner & Developer at ISPM : Own projects — LAPLACE, Price Comparator and Travel Platform
 ```
 
 </div>
@@ -208,12 +226,13 @@ timeline
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=diego-caldeira-12&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b5cf6&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=diego-caldeira-12&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=8b5cf6&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diego-caldeira-12&theme=github_dark" alt="GitHub Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diego-caldeira-12&theme=github_dark" alt="Most used languages" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-caldeira-12&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=false" alt="Top Languages" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=diego-caldeira-12&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=8b5cf6&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=diego-caldeira-12&theme=github_dark&utcOffset=-3" alt="Productive time" />
 
 </div>
 
@@ -242,20 +261,6 @@ timeline
 </picture>
 
 > *3D skyline of my contributions — updated automatically via GitHub Actions*
-
-</div>
-
----
-
-## ⏱️ Coding Time
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-```
-⌛ Collecting WakaTime data... it shows up here automatically.
-```
-<!--END_SECTION:waka-->
 
 </div>
 
