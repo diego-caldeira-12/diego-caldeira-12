@@ -261,7 +261,7 @@ timeline
 <div align="center">
 
 <picture>
-  <img src="./profile-3d-contrib/profile-radar.svg" alt="3D Contribution Skyline" width="100%"/>
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Skyline" width="100%"/>
 </picture>
 
 > *3D skyline of my contributions — updated automatically via GitHub Actions*
