@@ -56,9 +56,9 @@ Análise automática de **NF-e**: lê o XML, classifica por categoria e aponta o
 </td>
 <td width="33%" valign="top">
 
-**✈️ [Plataforma de Viagens](https://viagem-caldas-novas.vercel.app)**<br/>
+**✈️ [Plataforma de Viagens](https://plataforma-viagens.alexandreediego220.workers.dev)**<br/>
 3-em-1: rateio de grupo, busca de hotéis ao vivo (LiteAPI) e portal do parceiro. Serverless + Supabase.<br/>
-`Vercel` `Serverless` `Supabase`<br/>
+`Cloudflare Workers` `Serverless` `Supabase`<br/>
 🔗 No ar · 🔒 Código privado
 
 </td>

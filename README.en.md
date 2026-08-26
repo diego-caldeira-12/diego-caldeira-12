@@ -56,9 +56,9 @@ Automated **e-invoice (NF-e)** analysis: reads the XML, classifies by category a
 </td>
 <td width="33%" valign="top">
 
-**✈️ [Travel Platform](https://viagem-caldas-novas.vercel.app)**<br/>
+**✈️ [Travel Platform](https://plataforma-viagens.alexandreediego220.workers.dev)**<br/>
 3-in-1: group cost-splitting, live hotel search (LiteAPI) and a partner portal. Serverless + Supabase.<br/>
-`Vercel` `Serverless` `Supabase`<br/>
+`Cloudflare Workers` `Serverless` `Supabase`<br/>
 🔗 Live · 🔒 Private code
 
 </td>
