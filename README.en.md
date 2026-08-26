@@ -3,7 +3,7 @@
 <a href="./README.md">🇧🇷 Português</a> &nbsp;·&nbsp; <b>🇺🇸 English</b>
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Diego%20Caldeira&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Automation%20%C2%B7%20Backend%2FFull-stack%20%C2%B7%20Partner%20at%20ISPM&descSize=16&descAlignY=52"/>
+<img width="100%" src="./assets/header.svg" alt="Diego Caldeira"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -293,7 +293,7 @@ timeline
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="./assets/footer.svg" alt=""/>
 
 <b>❤️ By <a href="https://github.com/diego-caldeira-12">Diego Caldeira</a></b>
 

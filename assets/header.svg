@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" fill="none" role="img" aria-label="Diego Caldeira">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="0.5" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#c9d1d9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" fill="url(#bg)"/>
+  <path d="M0,132 C200,102 380,168 600,142 C820,116 1000,172 1200,132 L1200,200 L0,200 Z" fill="url(#wave)" opacity="0.9"/>
+  <path d="M0,158 C220,132 400,190 620,160 C840,130 1010,188 1200,152 L1200,200 L0,200 Z" fill="url(#wave)" opacity="0.4"/>
+  <text x="600" y="92" text-anchor="middle" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="60" font-weight="800" fill="url(#txt)" letter-spacing="1">Diego Caldeira</text>
+  <text x="600" y="124" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="15" font-weight="600" fill="#58a6ff" letter-spacing="4">&lt; developer /&gt;</text>
+</svg>
