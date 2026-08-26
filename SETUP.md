@@ -4,16 +4,18 @@ O README já está pronto e os widgets de stats agora usam fontes confiáveis
 (`github-profile-summary-cards` e `streak-stats.demolab.com`) — **não precisa
 self-host de nada.** Sobraram poucas ações, todas suas:
 
-## 1. Skyline 3D — secret `PAT_TOKEN`
+## 1. Skyline 3D — secret `PAT_TOKEN` (EXPIRADO)
 
-O workflow `3d-contrib.yml` roda diariamente, mas precisa de um Personal Access Token.
+O skyline já aparece e foi **atualizado manualmente com os dados de hoje**. Mas o secret
+`PAT_TOKEN` do repo está **expirado** (`Bad credentials` / 401), então o workflow diário
+não consegue mais atualizar sozinho. Pra religar a atualização automática:
 
 1. GitHub → **Settings (conta) → Developer settings → Personal access tokens → Tokens (classic)** → Generate.
    - Escopos: `repo` e `read:user`.
-2. Repo `diego-caldeira-12` → **Settings → Secrets and variables → Actions** → secret `PAT_TOKEN` com esse token.
-3. Aba **Actions → GitHub-Profile-3D-Contrib → Run workflow** pra gerar na hora.
+2. Repo `diego-caldeira-12` → **Settings → Secrets and variables → Actions** → atualize o secret `PAT_TOKEN` com o novo token.
+3. Aba **Actions → GitHub-Profile-3D-Contrib → Run workflow** pra testar.
 
-> Os SVGs já existem na pasta `profile-3d-contrib/`, então a skyline já aparece. O secret só garante a atualização automática.
+> Enquanto não renovar, o skyline continua aparecendo (é um SVG commitado), só não se atualiza sozinho.
 
 ## 2. Snake — já funciona
 
