@@ -36,7 +36,7 @@
 - 🛠️ **Backend & full-stack** — TypeScript, Node.js, Next.js, React, FastAPI, Tailwind, Supabase
 - 📊 **Análise de dados** — Python (Pandas, NumPy), SQL, PostgreSQL
 - 📱 Também desenvolvo **apps mobile** (iOS/Android), **jogos** (Unity) e domino **arte digital** (Krita)
-- 💼 Antes: **Inovamind** — analista de dados & desenvolvedor
+- 💼 **Experiências:** [ISPM Consultoria & Facilities](https://ispmtecnologia.com.br) · [Inovamind](https://www.inovamind.dev)
 
 > Transformo ideias em produto: da automação com IA ao backend que segura a operação.
 
@@ -226,13 +226,17 @@ timeline
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diego-caldeira-12&theme=github_dark" alt="GitHub Stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diego-caldeira-12&theme=github_dark" alt="Linguagens mais usadas" />
+<img width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diego-caldeira-12&theme=github_dark" alt="Resumo do perfil" />
 
 <br/><br/>
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=diego-caldeira-12&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=8b5cf6&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=diego-caldeira-12&theme=github_dark&utcOffset=-3" alt="Horários de código" />
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diego-caldeira-12&theme=github_dark" alt="Estatísticas" />
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diego-caldeira-12&theme=github_dark" alt="Linguagens por commit" />
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diego-caldeira-12&theme=github_dark" alt="Linguagens por repositório" />
+
+<br/><br/>
+
+<img width="62%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=diego-caldeira-12&theme=github_dark&utcOffset=-3" alt="Horários de código" />
 
 </div>
 
@@ -257,7 +261,7 @@ timeline
 <div align="center">
 
 <picture>
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph - Night View" width="100%"/>
+  <img src="./profile-3d-contrib/profile-radar.svg" alt="3D Contribution Skyline" width="100%"/>
 </picture>
 
 > *Skyline 3D das minhas contribuições — atualizado automaticamente via GitHub Actions*

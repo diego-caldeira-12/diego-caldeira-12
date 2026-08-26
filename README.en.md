@@ -36,7 +36,7 @@
 - 🛠️ **Backend & full-stack** — TypeScript, Node.js, Next.js, React, FastAPI, Tailwind, Supabase
 - 📊 **Data analysis** — Python (Pandas, NumPy), SQL, PostgreSQL
 - 📱 I also build **mobile apps** (iOS/Android), **games** (Unity) and work with **digital art** (Krita)
-- 💼 Previously: **Inovamind** — data analyst & developer
+- 💼 **Experience:** [ISPM Consultoria & Facilities](https://ispmtecnologia.com.br) · [Inovamind](https://www.inovamind.dev)
 
 > I turn ideas into products: from AI automation to the backend that keeps operations running.
 
@@ -226,13 +226,17 @@ timeline
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diego-caldeira-12&theme=github_dark" alt="GitHub Stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diego-caldeira-12&theme=github_dark" alt="Most used languages" />
+<img width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diego-caldeira-12&theme=github_dark" alt="Profile summary" />
 
 <br/><br/>
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=diego-caldeira-12&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=8b5cf6&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=diego-caldeira-12&theme=github_dark&utcOffset=-3" alt="Productive time" />
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diego-caldeira-12&theme=github_dark" alt="Stats" />
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diego-caldeira-12&theme=github_dark" alt="Languages by commit" />
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diego-caldeira-12&theme=github_dark" alt="Languages by repo" />
+
+<br/><br/>
+
+<img width="62%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=diego-caldeira-12&theme=github_dark&utcOffset=-3" alt="Productive time" />
 
 </div>
 
@@ -257,7 +261,7 @@ timeline
 <div align="center">
 
 <picture>
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph - Night View" width="100%"/>
+  <img src="./profile-3d-contrib/profile-radar.svg" alt="3D Contribution Skyline" width="100%"/>
 </picture>
 
 > *3D skyline of my contributions — updated automatically via GitHub Actions*
