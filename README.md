@@ -159,26 +159,36 @@ Aplicativos iOS + Android para operação logística.<br/>
 
 **Linguagens**
 <br/>
-<img src="https://skillicons.dev/icons?i=ts,js,python,cs,cpp,java,html,css&theme=dark" alt="Linguagens" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,cs,cpp,java,html,css,bash,powershell&theme=dark" alt="Linguagens" />
 
 **IA & Automação**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" alt="IA" />
-<img src="https://img.shields.io/badge/LLM%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs" height="42"/>
-<img src="https://img.shields.io/badge/RAG-1C1C1C?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" height="42"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" height="42"/>
+<img src="https://img.shields.io/badge/Claude%20Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" height="42"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" height="42"/>
+<img src="https://img.shields.io/badge/RAG-0A7E8C?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" height="42"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" height="42"/>
+<img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp API" height="42"/>
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" />
 
 **Backend & Web**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,tailwind,fastapi,supabase,vercel&theme=dark" alt="Backend & Web" />
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,vite,tailwind,fastapi,supabase,vercel&theme=dark" alt="Backend & Web" />
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" height="42"/>
+<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry" height="42"/>
+<img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend" height="42"/>
+<img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" height="42"/>
 
 **Bancos de Dados**
 <br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark" alt="Bancos" />
 
-**DevOps & Ferramentas**
+**DevOps, Testes & Ferramentas**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" alt="DevOps" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,cloudflare,vscode,vitest&theme=dark" alt="DevOps" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" height="42"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="42"/>
+<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" height="42"/>
 
 **Mobile, Jogos & Design**
 <br/>
@@ -193,12 +203,13 @@ Aplicativos iOS + Android para operação logística.<br/>
 
 | Categoria | Tecnologias |
 |-----------|-------------|
-| **Linguagens** | TypeScript, JavaScript, Python, C#, C++, Java, HTML, CSS, SQL |
-| **IA & Automação** | Agentes de IA conversacionais, RAG, APIs de LLM, n8n, WhatsApp API, TensorFlow |
-| **Backend & Web** | Node.js, Next.js, React, FastAPI, Tailwind, Supabase, Vercel |
+| **Linguagens** | TypeScript, JavaScript, Python, C#, C++, Java, HTML, CSS, SQL, Bash, PowerShell |
+| **IA & Automação** | Claude / Claude Code, OpenAI, APIs de LLM, Agentes de IA conversacionais, RAG, n8n, WhatsApp API, TensorFlow |
+| **Backend & Web** | Node.js, Next.js, React, Vite, FastAPI, Tailwind, shadcn/ui, Supabase, Vercel, Jinja2, SQLAlchemy |
 | **Dados** | Python (Pandas, NumPy), SQL, Análise de Dados |
 | **Bancos de Dados** | PostgreSQL, MySQL, MongoDB, SQLite |
-| **DevOps & Ferramentas** | Git, GitHub, Docker, Linux, VS Code |
+| **DevOps & Infra** | Git, GitHub, GitHub Actions, Docker, Linux, Cloudflare, VS Code, Sentry |
+| **Testes & APIs** | Vitest, Playwright, Postman, Resend, LiteAPI |
 | **Mobile, Jogos & Design** | iOS, Android, Unity, C# Scripting, Blender, Figma, Krita |
 
 </details>
