@@ -48,10 +48,10 @@
 <tr>
 <td width="33%" valign="top">
 
-**💰 Price Comparator**<br/>
+**💰 [Price Comparator](https://comparador-precos-mvp.vercel.app)**<br/>
 Automated **e-invoice (NF-e)** analysis: reads the XML, classifies by category and points to the cheapest supplier + unusual-increase alerts.<br/>
 `Next.js` `React` `Supabase`<br/>
-🔒 Private code · piloting
+🔗 Live · 🔒 Private code
 
 </td>
 <td width="33%" valign="top">
@@ -74,10 +74,10 @@ Content platform for Asian-drama fans: blog, newsletter, voting, awards and sear
 <tr>
 <td width="33%" valign="top">
 
-**📈 Contempla Já**<br/>
+**📈 [Contempla Já](https://contempla-ja.alexandreediego220.workers.dev/#/app)**<br/>
 Consortium-award probability simulator, with invite-only login and per-seller history.<br/>
-`Vite` `React` `Supabase`<br/>
-🔒 Private code · phase 1
+`React` `Supabase` `Cloudflare Workers`<br/>
+🔗 Live · 🔒 Private code
 
 </td>
 <td width="33%" valign="top">

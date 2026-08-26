@@ -48,10 +48,10 @@
 <tr>
 <td width="33%" valign="top">
 
-**💰 Comparador de Preços**<br/>
+**💰 [Comparador de Preços](https://comparador-precos-mvp.vercel.app)**<br/>
 Análise automática de **NF-e**: lê o XML, classifica por categoria e aponta o fornecedor mais barato + alerta de aumento atípico.<br/>
 `Next.js` `React` `Supabase`<br/>
-🔒 Código privado · em piloto
+🔗 No ar · 🔒 Código privado
 
 </td>
 <td width="33%" valign="top">
@@ -74,10 +74,10 @@ Plataforma de conteúdo para fãs de doramas: blog, newsletter, votação, award
 <tr>
 <td width="33%" valign="top">
 
-**📈 Contempla Já**<br/>
+**📈 [Contempla Já](https://contempla-ja.alexandreediego220.workers.dev/#/app)**<br/>
 Simulador de probabilidade de contemplação de consórcios, com login por convite e histórico por vendedor.<br/>
-`Vite` `React` `Supabase`<br/>
-🔒 Código privado · fase 1
+`React` `Supabase` `Cloudflare Workers`<br/>
+🔗 No ar · 🔒 Código privado
 
 </td>
 <td width="33%" valign="top">
