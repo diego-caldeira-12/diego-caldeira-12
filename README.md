@@ -31,7 +31,7 @@
 ## 👋 Sobre Mim
 
 - 🤝 **Sócio & desenvolvedor** na **ISPM Consultoria & Facilities**
-- 🎓 Estudante de **Engenharia da Computação**
+- 🎓 **Engenheiro da Computação**
 - 🤖 Desenvolvo **agentes de IA conversacionais** (vendas/atendimento) — Python, RAG, APIs de LLM, WhatsApp
 - 🛠️ **Backend & full-stack** — TypeScript, Node.js, Next.js, React, FastAPI, Tailwind, Supabase
 - 📊 **Análise de dados** — Python (Pandas, NumPy), SQL, PostgreSQL
