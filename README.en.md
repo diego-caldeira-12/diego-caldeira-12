@@ -31,7 +31,7 @@
 ## 👋 About Me
 
 - 🤝 **Partner & developer** at **ISPM Consultoria & Facilities**
-- 🎓 **Computer Engineering** student
+- 🎓 **Computer Engineer**
 - 🤖 I build **conversational AI agents** (sales/support) — Python, RAG, LLM APIs, WhatsApp
 - 🛠️ **Backend & full-stack** — TypeScript, Node.js, Next.js, React, FastAPI, Tailwind, Supabase
 - 📊 **Data analysis** — Python (Pandas, NumPy), SQL, PostgreSQL
