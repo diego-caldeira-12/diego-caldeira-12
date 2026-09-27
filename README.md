@@ -31,6 +31,7 @@
 ## 👋 Sobre Mim
 
 - 🤝 **Sócio & desenvolvedor** na **ISPM Consultoria & Facilities**
+- 🚀 Criador do **[Visão Consórcio](https://visaoconsorcio.com.br)** — SaaS para vendedores de consórcio, no ar
 - 🎓 **Engenheiro da Computação**
 - 🤖 Desenvolvo **agentes de IA conversacionais** (vendas/atendimento) — Python, RAG, APIs de LLM, WhatsApp
 - 🛠️ **Backend & full-stack** — TypeScript, Node.js, Next.js, React, FastAPI, Tailwind, Supabase
@@ -39,6 +40,35 @@
 - 💼 **Experiências:** [ISPM Consultoria & Facilities](https://ispmtecnologia.com.br) · [Inovamind](https://www.inovamind.dev)
 
 > Transformo ideias em produto: da automação com IA ao backend que segura a operação.
+
+---
+
+## ⭐ Projeto em Destaque
+
+<div align="center">
+
+<a href="https://visaoconsorcio.com.br">
+  <img width="92%" src="./assets/visao-consorcio.png" alt="Visão Consórcio — landing page"/>
+</a>
+
+### [Visão Consórcio](https://visaoconsorcio.com.br) — inteligência para vender consórcio
+
+<a href="https://visaoconsorcio.com.br"><img src="https://img.shields.io/badge/No%20ar-visaoconsorcio.com.br-0B8A4A?style=for-the-badge" alt="No ar"/></a> <img src="https://img.shields.io/badge/SaaS-produto%20pr%C3%B3prio-111?style=for-the-badge" alt="SaaS"/> <img src="https://img.shields.io/badge/c%C3%B3digo-privado-555?style=for-the-badge" alt="Código privado"/>
+
+</div>
+
+SaaS para vendedores e corretoras de consórcio: transforma os dados do grupo — assembleias, sorteios, lances e prazo — numa **probabilidade de contemplação mês a mês**, e reúne num só lugar um **mural público de cartas à venda**, gestão de equipe e cobrança recorrente. Do modelo estatístico ao deploy, passando por pagamentos, e-mails e segurança.
+
+- 📈 **Calculadora de contemplação** — modelo próprio de sorteio + lance, com chance acumulada e histórico por vendedor
+- 🗂️ **Mural de cartas** — anúncios públicos com filtros por crédito, entrada, parcela e administradora; contato direto, avaliação 24h depois e prévia no WhatsApp
+- 💳 **Planos e monetização** — assinatura, destaque pago de carta e espaços de publicidade, com checkout e webhooks do Asaas
+- 👥 **Equipes e corretoras** — convites, painel de desempenho, carteira de clientes, selo de empresa verificada e API para corretoras
+- 🔔 **Engajamento** — notificações, e-mails transacionais na marca (Resend), notícias do setor coletadas automaticamente e trilha de treinamento
+- 🔐 **Segurança e operação** — RLS em todas as tabelas, 2FA, Cloudflare Turnstile, duas revisões de segurança e backup semanal via GitHub Actions
+
+`React` `TypeScript` `Vite` `Supabase (Postgres + RLS + Edge Functions)` `Cloudflare Workers` `Asaas` `Resend`
+
+<sub>📊 Em ~2,5 meses: **228 commits** · **35 PRs** · **67 migrações** de banco · **9 Edge Functions**</sub>
 
 ---
 
@@ -74,14 +104,6 @@ Plataforma de conteúdo para fãs de doramas: blog, newsletter, votação, award
 <tr>
 <td width="33%" valign="top">
 
-**📈 [Contempla Já](https://contempla-ja.alexandreediego220.workers.dev/#/app)**<br/>
-Simulador de probabilidade de contemplação de consórcios, com login por convite e histórico por vendedor.<br/>
-`React` `Supabase` `Cloudflare Workers`<br/>
-🔗 No ar · 🔒 Código privado
-
-</td>
-<td width="33%" valign="top">
-
 **🏢 [Site ISPM](https://ispm.com.br)**<br/>
 Site institucional da ISPM com o *Mapeamento ISPM* — questionário de 10 etapas que gera leads.<br/>
 `Static` `Supabase` `Edge Functions`<br/>
@@ -96,8 +118,6 @@ Agente conversacional no WhatsApp com arquitetura de *ports* plugáveis (catálo
 🔒 Código privado
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 
 **💳 [payments-gateway-api](https://github.com/diego-caldeira-12/payments-gateway-api)**<br/>
@@ -106,6 +126,8 @@ Gateway de pagamento (mock): idempotência, webhooks e processamento assíncrono
 `</>` Código público
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
 **🌿 [plantdoc-ai](https://github.com/diego-caldeira-12/plantdoc-ai)**<br/>
@@ -122,8 +144,6 @@ Sites profissionais para comércios de Itabira/MG.<br/>
 `</>` Código público
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 
 **🧠 LAPLACE**<br/>
@@ -132,6 +152,8 @@ Plataforma autônoma de pesquisa quantitativa para trading: multiagente, backtes
 🔒 Código privado
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
 **📊 Painéis de conciliação & gestão**<br/>
@@ -226,7 +248,9 @@ timeline
     2025 : Início na carreira em tecnologia : Analista de Dados & Desenvolvedor na Inovamind : Python, SQL e primeiros projetos
     Abr 2026 : plantdoc-ai — visão computacional (MobileNetV2) : payments-gateway-api — backend em TypeScript
     Jun 2026 : sites-itabira — web para comércios locais
+    Jul 2026 : Visão Consórcio — primeira versão (calculadora de contemplação)
     Ago 2026 : Sócio & Desenvolvedor na ISPM : Projetos próprios — LAPLACE, Comparador de Preços e Plataforma de Viagens
+    Set 2026 : Visão Consórcio no ar em visaoconsorcio.com.br : Mural de cartas, planos pagos e equipes
 ```
 
 </div>

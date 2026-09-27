@@ -31,6 +31,7 @@
 ## 👋 About Me
 
 - 🤝 **Partner & developer** at **ISPM Consultoria & Facilities**
+- 🚀 Creator of **[Visão Consórcio](https://visaoconsorcio.com.br)** — a live SaaS for consortium sellers
 - 🎓 **Computer Engineer**
 - 🤖 I build **conversational AI agents** (sales/support) — Python, RAG, LLM APIs, WhatsApp
 - 🛠️ **Backend & full-stack** — TypeScript, Node.js, Next.js, React, FastAPI, Tailwind, Supabase
@@ -39,6 +40,35 @@
 - 💼 **Experience:** [ISPM Consultoria & Facilities](https://ispmtecnologia.com.br) · [Inovamind](https://www.inovamind.dev)
 
 > I turn ideas into products: from AI automation to the backend that keeps operations running.
+
+---
+
+## ⭐ Featured Project
+
+<div align="center">
+
+<a href="https://visaoconsorcio.com.br">
+  <img width="92%" src="./assets/visao-consorcio.png" alt="Visão Consórcio — landing page"/>
+</a>
+
+### [Visão Consórcio](https://visaoconsorcio.com.br) — intelligence for selling consortium plans
+
+<a href="https://visaoconsorcio.com.br"><img src="https://img.shields.io/badge/Live-visaoconsorcio.com.br-0B8A4A?style=for-the-badge" alt="Live"/></a> <img src="https://img.shields.io/badge/SaaS-own%20product-111?style=for-the-badge" alt="SaaS"/> <img src="https://img.shields.io/badge/code-private-555?style=for-the-badge" alt="Private code"/>
+
+</div>
+
+SaaS for consortium (*consórcio*, Brazil's pooled-credit plans) sellers and brokerages: it turns group data — assemblies, draws, bids and term — into a **month-by-month award probability**, and brings together a **public marketplace of plans for sale**, team management and recurring billing. From the statistical model to deployment, including payments, email and security.
+
+- 📈 **Award calculator** — custom draw + bid model, with cumulative probability and per-seller history
+- 🗂️ **Plans marketplace** — public listings filtered by credit, down payment, installment and administrator; direct contact, follow-up rating after 24h and WhatsApp link previews
+- 💳 **Plans & monetization** — subscriptions, paid listing boosts and ad slots, with Asaas checkout and webhooks
+- 👥 **Teams & brokerages** — invites, performance dashboard, client portfolio, verified-company badge and a brokerage API
+- 🔔 **Engagement** — notifications, branded transactional emails (Resend), auto-collected industry news and a training track
+- 🔐 **Security & ops** — RLS on every table, 2FA, Cloudflare Turnstile, two security reviews and weekly backups via GitHub Actions
+
+`React` `TypeScript` `Vite` `Supabase (Postgres + RLS + Edge Functions)` `Cloudflare Workers` `Asaas` `Resend`
+
+<sub>📊 In ~2.5 months: **228 commits** · **35 PRs** · **67 database migrations** · **9 Edge Functions**</sub>
 
 ---
 
@@ -74,14 +104,6 @@ Content platform for Asian-drama fans: blog, newsletter, voting, awards and sear
 <tr>
 <td width="33%" valign="top">
 
-**📈 [Contempla Já](https://contempla-ja.alexandreediego220.workers.dev/#/app)**<br/>
-Consortium-award probability simulator, with invite-only login and per-seller history.<br/>
-`React` `Supabase` `Cloudflare Workers`<br/>
-🔗 Live · 🔒 Private code
-
-</td>
-<td width="33%" valign="top">
-
 **🏢 [ISPM Website](https://ispm.com.br)**<br/>
 ISPM's institutional site with the *ISPM Mapping* — a 10-step questionnaire that generates leads.<br/>
 `Static` `Supabase` `Edge Functions`<br/>
@@ -96,8 +118,6 @@ Conversational sales agent on WhatsApp with a pluggable *ports* architecture (ca
 🔒 Private code
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 
 **💳 [payments-gateway-api](https://github.com/diego-caldeira-12/payments-gateway-api)**<br/>
@@ -106,6 +126,8 @@ Mock payment gateway: idempotency, webhooks and async processing.<br/>
 `</>` Public code
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
 **🌿 [plantdoc-ai](https://github.com/diego-caldeira-12/plantdoc-ai)**<br/>
@@ -122,8 +144,6 @@ Professional websites for local businesses in Itabira/MG.<br/>
 `</>` Public code
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 
 **🧠 LAPLACE**<br/>
@@ -132,6 +152,8 @@ Autonomous quantitative research platform for trading: multi-agent, backtesting 
 🔒 Private code
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
 **📊 Reconciliation & management dashboards**<br/>
@@ -226,7 +248,9 @@ timeline
     2025 : Started my tech career : Data Analyst & Developer at Inovamind : Python, SQL and first projects
     Apr 2026 : plantdoc-ai — computer vision (MobileNetV2) : payments-gateway-api — TypeScript backend
     Jun 2026 : sites-itabira — web for local businesses
+    Jul 2026 : Visão Consórcio — first version (award calculator)
     Aug 2026 : Partner & Developer at ISPM : Own projects — LAPLACE, Price Comparator and Travel Platform
+    Sep 2026 : Visão Consórcio live at visaoconsorcio.com.br : Plans marketplace, paid plans and teams
 ```
 
 </div>
