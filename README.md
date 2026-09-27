@@ -78,6 +78,14 @@ SaaS para vendedores e corretoras de consórcio: transforma os dados do grupo �
 <tr>
 <td width="33%" valign="top">
 
+**📈 [Visão Consórcio](https://visaoconsorcio.com.br)** ⭐<br/>
+SaaS para vendedores de consórcio: chance de contemplação mês a mês, mural público de cartas à venda, equipes e planos pagos.<br/>
+`React` `Supabase` `Cloudflare Workers`<br/>
+🔗 No ar · 🔒 Código privado
+
+</td>
+<td width="33%" valign="top">
+
 **💰 [Comparador de Preços](https://comparador-precos-mvp.vercel.app)**<br/>
 Análise automática de **NF-e**: lê o XML, classifica por categoria e aponta o fornecedor mais barato + alerta de aumento atípico.<br/>
 `Next.js` `React` `Supabase`<br/>
@@ -92,6 +100,8 @@ Análise automática de **NF-e**: lê o XML, classifica por categoria e aponta o
 🔗 No ar · 🔒 Código privado
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
 **🎬 [Hora de Dramear](https://horadedramear.com.br)**<br/>
@@ -100,8 +110,6 @@ Plataforma de conteúdo para fãs de doramas: blog, newsletter, votação, award
 🔗 No ar · 🔒 Código privado
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 
 **🏢 [Site ISPM](https://ispm.com.br)**<br/>
@@ -118,6 +126,8 @@ Agente conversacional no WhatsApp com arquitetura de *ports* plugáveis (catálo
 🔒 Código privado
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
 **💳 [payments-gateway-api](https://github.com/diego-caldeira-12/payments-gateway-api)**<br/>
@@ -126,8 +136,6 @@ Gateway de pagamento (mock): idempotência, webhooks e processamento assíncrono
 `</>` Código público
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 
 **🌿 [plantdoc-ai](https://github.com/diego-caldeira-12/plantdoc-ai)**<br/>
@@ -144,6 +152,8 @@ Sites profissionais para comércios de Itabira/MG.<br/>
 `</>` Código público
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
 **🧠 LAPLACE**<br/>
@@ -152,8 +162,6 @@ Plataforma autônoma de pesquisa quantitativa para trading: multiagente, backtes
 🔒 Código privado
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 
 **📊 Painéis de conciliação & gestão**<br/>

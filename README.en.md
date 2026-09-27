@@ -78,6 +78,14 @@ SaaS for consortium (*consórcio*, Brazil's pooled-credit plans) sellers and bro
 <tr>
 <td width="33%" valign="top">
 
+**📈 [Visão Consórcio](https://visaoconsorcio.com.br)** ⭐<br/>
+SaaS for consortium sellers: month-by-month award probability, public marketplace of plans for sale, teams and paid plans.<br/>
+`React` `Supabase` `Cloudflare Workers`<br/>
+🔗 Live · 🔒 Private code
+
+</td>
+<td width="33%" valign="top">
+
 **💰 [Price Comparator](https://comparador-precos-mvp.vercel.app)**<br/>
 Automated **e-invoice (NF-e)** analysis: reads the XML, classifies by category and points to the cheapest supplier + unusual-increase alerts.<br/>
 `Next.js` `React` `Supabase`<br/>
@@ -92,6 +100,8 @@ Automated **e-invoice (NF-e)** analysis: reads the XML, classifies by category a
 🔗 Live · 🔒 Private code
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
 **🎬 [Hora de Dramear](https://horadedramear.com.br)**<br/>
@@ -100,8 +110,6 @@ Content platform for Asian-drama fans: blog, newsletter, voting, awards and sear
 🔗 Live · 🔒 Private code
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 
 **🏢 [ISPM Website](https://ispm.com.br)**<br/>
@@ -118,6 +126,8 @@ Conversational sales agent on WhatsApp with a pluggable *ports* architecture (ca
 🔒 Private code
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
 **💳 [payments-gateway-api](https://github.com/diego-caldeira-12/payments-gateway-api)**<br/>
@@ -126,8 +136,6 @@ Mock payment gateway: idempotency, webhooks and async processing.<br/>
 `</>` Public code
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 
 **🌿 [plantdoc-ai](https://github.com/diego-caldeira-12/plantdoc-ai)**<br/>
@@ -144,6 +152,8 @@ Professional websites for local businesses in Itabira/MG.<br/>
 `</>` Public code
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
 **🧠 LAPLACE**<br/>
@@ -152,8 +162,6 @@ Autonomous quantitative research platform for trading: multi-agent, backtesting 
 🔒 Private code
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 
 **📊 Reconciliation & management dashboards**<br/>
