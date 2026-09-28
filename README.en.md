@@ -13,6 +13,9 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
+<a href="https://diego-caldeira.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-B3261E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
 <a href="https://www.linkedin.com/in/diegocaldeira-dev/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -73,6 +76,8 @@ SaaS for consortium (*consórcio*, Brazil's pooled-credit plans) sellers and bro
 ---
 
 ## 🚀 Projects
+
+> 🌐 See every live site, with screenshots and links, in my **[portfolio](https://diego-caldeira.vercel.app)**.
 
 <table>
 <tr>

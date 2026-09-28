@@ -13,6 +13,9 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
+<a href="https://diego-caldeira.vercel.app">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-B3261E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/>
+</a>
 <a href="https://www.linkedin.com/in/diegocaldeira-dev/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -73,6 +76,8 @@ SaaS para vendedores e corretoras de consórcio: transforma os dados do grupo �
 ---
 
 ## 🚀 Projetos
+
+> 🌐 Veja todos os sites no ar, com prints e links, no **[meu portfólio](https://diego-caldeira.vercel.app)**.
 
 <table>
 <tr>
