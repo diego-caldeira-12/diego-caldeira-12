@@ -117,7 +117,7 @@ Plataforma de conteúdo para fãs de doramas: blog, newsletter, votação, award
 </td>
 <td width="33%" valign="top">
 
-**🏢 [Site ISPM](https://ispm.com.br)**<br/>
+**🏢 [Site ISPM](https://ispmtecnologia.com.br)**<br/>
 Site institucional da ISPM com o *Mapeamento ISPM* — questionário de 10 etapas que gera leads.<br/>
 `Static` `Supabase` `Edge Functions`<br/>
 🔗 No ar · 🔒 Código privado
