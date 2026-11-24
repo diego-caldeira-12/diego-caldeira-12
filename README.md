@@ -33,7 +33,7 @@
 
 ## 👋 Sobre Mim
 
-- 🤝 **Sócio & desenvolvedor** na **ISPM Consultoria & Facilities**
+- 🤝 **Sócio & desenvolvedor** na **Visão Desenvolvimentos**
 - 🚀 Criador do **[Visão Consórcio](https://visaoconsorcio.com.br)** — SaaS para vendedores de consórcio, no ar
 - 🎓 **Engenheiro da Computação**
 - 🤖 Desenvolvo **agentes de IA conversacionais** (vendas/atendimento) — Python, RAG, APIs de LLM, WhatsApp
